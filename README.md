@@ -37,6 +37,4 @@ or
 scrapy crawl eth -o results.json
 ```
 
-
-Please beware while you are running. This script may take hours to scrape the data because it has millions of records. Uncomment the code written in ethereum/spiders/eth.py before running the script.
-{: .alert .alert-warning}
+**WARNING:** Please beware while you are running. This script may take hours to scrape the data because it has millions of records. Uncomment the code written in ethereum/spiders/eth.py before running the script.
